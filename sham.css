@@ -1,0 +1,22 @@
+h1{
+	color: skyblue;
+	font-style: !important;
+}
+h2{
+    color: black;
+}
+body{
+	font-style: italic ;
+	color: black;
+    background-color: bisque;
+	
+}
+p{
+	padding: 50px;
+	background-color: skyblue;
+}
+
+.s1{
+	list-style: none;
+	list-style-image: url(photo.jpg);
+}
